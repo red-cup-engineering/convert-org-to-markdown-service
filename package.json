@@ -22,5 +22,9 @@
   },
   "engines": {
     "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/convert-org-to-markdown-service.git"
   }
 }
