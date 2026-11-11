@@ -1,6 +1,6 @@
 {
   "name": "@red-cup-engineering/convert-org-to-markdown-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Converts an Org document to Markdown, carrying org-roam node identity forward and dropping org-drill review state.",
   "exports": {
